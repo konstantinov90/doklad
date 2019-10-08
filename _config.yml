@@ -11,14 +11,14 @@ default_lang: en
 default_body_class: list
 
 presentation:
-    title: Название презентации
-    service: Название сервиса
+    title: Переводы
+    service: Директ
     nda: false
     lang: ru            # ru, en
 
 author:
-    name: Автор
-    position: Должность
+    name: Александр Константинов
+    position: разработчик интерфейсов
     company:
         name: Яндекс
         url:  http://yandex.ru/
