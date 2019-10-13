@@ -89,6 +89,11 @@ style: |
 
 ![](images/Frame 2 many arrows.png)
 
+## таймлайн
+{:.images}
+
+![](images/Frame 3.png)
+
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
 
