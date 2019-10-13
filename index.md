@@ -70,8 +70,14 @@ style: |
 1. PROFIT
 
 ## Frame 1
+{:.fullscreen}
 
 ![](images/Frame 1.png)
+
+## Frame 1 no text
+{:.fullscreen}
+
+![](images/Frame 1 no text.png)
 
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
