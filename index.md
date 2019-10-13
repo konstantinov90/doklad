@@ -39,7 +39,7 @@ style: |
 ## RU
 {:.fullscreen}
 
-![](images/morda-ru.png)
+![](images/morda-ru2.png)
 
 ## EN
 {:.fullscreen}
