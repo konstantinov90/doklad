@@ -31,10 +31,25 @@ style: |
 
 </div>
 
-## Название раздела
+## Постановка задачи
 {:.section}
 
-### Верхний колонтитул
+<!-- ### Верхний колонтитул -->
+
+## RU
+{:.fullscreen}
+
+![](images/morda-ru.png)
+
+## EN
+{:.fullscreen}
+
+![](images/morda-en.png)
+
+## TR
+{:.fullscreen}
+
+![](images/morda-tr.png)
 
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
