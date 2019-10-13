@@ -69,23 +69,23 @@ style: |
 1. Танкер синхронизируется с транком
 1. PROFIT
 
-## Frame 1
-{:.fullscreen}
+## 
+<!-- {:.fullscreen} -->
 
 ![](images/Frame 1.png)
 
-## Frame 1 no text
-{:.fullscreen}
+## 
+<!-- {:.fullscreen} -->
 
 ![](images/Frame 1 no text.png)
 
-## Frame 2
-{:.fullscreen}
+## 
+<!-- {:.fullscreen} -->
 
 ![](images/Frame 2.png)
 
-## Frame 2 many arrows
-{:.fullscreen}
+## 
+<!-- {:.fullscreen} -->
 
 ![](images/Frame 2 many arrows.png)
 
