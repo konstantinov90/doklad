@@ -69,23 +69,23 @@ style: |
 1. Танкер синхронизируется с транком
 1. PROFIT
 
-## 
-<!-- {:.fullscreen} -->
+## таймлайн
+{:.images}
 
 ![](images/Frame 1.png)
 
-## 
-<!-- {:.fullscreen} -->
+## таймлайн
+{:.images}
 
 ![](images/Frame 1 no text.png)
 
-## 
-<!-- {:.fullscreen} -->
+## таймлайн
+{:.images}
 
 ![](images/Frame 2.png)
 
-## 
-<!-- {:.fullscreen} -->
+## таймлайн
+{:.images}
 
 ![](images/Frame 2 many arrows.png)
 
