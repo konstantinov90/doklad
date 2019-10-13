@@ -94,6 +94,12 @@ style: |
 
 ![](images/Frame 3.png)
 
+## к чему это приводит
+{:.fullscreen}
+
+![](images/failed translations.png)
+
+
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
 
