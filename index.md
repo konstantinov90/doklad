@@ -97,7 +97,7 @@ style: |
 ## к чему это приводит
 {:.fullscreen}
 
-![](images/failed translations.png)
+![](images/failed translation.png)
 
 ## Проблема
 
