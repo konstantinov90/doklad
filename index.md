@@ -79,6 +79,16 @@ style: |
 
 ![](images/Frame 1 no text.png)
 
+## Frame 2
+{:.fullscreen}
+
+![](images/Frame 2.png)
+
+## Frame 2 many arrows
+{:.fullscreen}
+
+![](images/Frame 2 many arrows.png)
+
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
 
