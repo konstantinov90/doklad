@@ -225,6 +225,10 @@ tanker-gandhi
 {:.fullscreen}
 ![](images/gandhi-4.png)
 
+## Auto-issues
+
+UPSERT интерфейс для стартрека
+
 
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
