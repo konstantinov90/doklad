@@ -223,7 +223,7 @@ Diff git'а показывает, что поменялось
 
 ## Конфликты
 
-```json
+```js
 {
     "dna:declarations_filter/today-is/ru": {
         "form": {
