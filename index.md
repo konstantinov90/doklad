@@ -192,10 +192,39 @@ Diff git'а показывает, что поменялось
 1. Разработчик `мержит ветку с переводами` и вливает пул-ревест
 1. Можно релизить фичу - она уже переведена
 
+## Tanker-kit
+
+потребовались доработки для работы с ветками
+
+## Tanker-branch
+
+нодовое API
+
 ## Si vis pacem, para bellum
 {:.blockquote}
 
 ### Гай Юлий Цезарь
+
+## Конфликты и их решение
+
+tanker-gandhi
+
+## tanker-gandhi
+{:.fullscreen}
+![](images/gandhi-1.png)
+
+## tanker-gandhi
+{:.fullscreen}
+![](images/gandhi-2.png)
+
+## tanker-gandhi
+{:.fullscreen}
+![](images/gandhi-3.png)
+
+## tanker-gandhi
+{:.fullscreen}
+![](images/gandhi-4.png)
+
 
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
