@@ -209,6 +209,11 @@ Diff git'а показывает, что поменялось
 
 tanker-gandhi
 
+## व्यायाम भी शरीर के लिए उतना ही आवश्यक है जितना ही हवा, पानी और भोजन।
+{:.blockquote}
+
+### Махатма Ганди
+
 ## tanker-gandhi
 {:.fullscreen}
 ![](images/gandhi-1.png)
