@@ -221,14 +221,28 @@ Diff git'а показывает, что поменялось
 
 ### Гай Юлий Цезарь
 
-## Конфликты и их решение
+## Конфликты
 
-tanker-gandhi
+```json
+{
+    "dna:declarations_filter/today-is/ru": {
+        "form": {
+            "a": "пЯтьница",
+            "b": "Кровавый четверг",
+            "resolved": null
+        },
+        "hash": "ea08bc....7bc77d3"
+    }
+}
+```
 
 ## व्यायाम भी शरीर के लिए उतना ही आवश्यक है जितना ही हवा, पानी और भोजन।
 {:.blockquote}
 
 ### Мохандас Карамчанд (Махатма) Ганди
+
+## [tanker-gandhi](https://github.yandex-team.ru/twilight/tanker-gandhi)
+{:.shout}
 
 ## tanker-gandhi
 {:.fullscreen}
