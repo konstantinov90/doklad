@@ -86,7 +86,7 @@ style: |
 ![](images/Frame 2.png) 
 
 ## таймлайн
-{:.images}
+{:.fullscreen}
 
 ![](images/Frame 2 many arrows.png)
 
@@ -96,7 +96,7 @@ style: |
 ![](images/failed translation.png)
 
 ## таймлайн
-{:.images}
+{:.fullscreen}
 
 ![](images/Frame 3.png)
 
