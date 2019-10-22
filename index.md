@@ -80,13 +80,6 @@ style: |
 
 ![](images/Frame 1.png)
 
-**дополнить диаграмму кружочками**
-
-## таймлайн
-{:.images}
-
-![](images/Frame 1 no text.png)
-
 ## таймлайн
 {:.images}
 
