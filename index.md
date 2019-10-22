@@ -5,8 +5,10 @@ layout: yandex2
 style: |
     /* собственные стили можно писать здесь!!*/
     .red-alert {
-        background: red;
-        border-radius: 3px;
+        background: #f73434;
+        border-radius: 9px;
+        color: white;
+        padding: 0 15px 5px;
     }
 
 
