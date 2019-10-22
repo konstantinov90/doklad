@@ -199,9 +199,8 @@ Diff git'а показывает, что поменялось
 
 потребовались доработки для работы с ветками
 
-## Tanker-branch
-
-нодовое API
+## [tanker-branch](https://github.yandex-team.ru/twilight/tanker-branch)
+{:.shout}
 
 ## Si vis pacem, para bellum
 {:.blockquote}
@@ -247,10 +246,10 @@ Diff git'а показывает, что поменялось
 {:.fullscreen}
 ![](images/gandhi-4.png)
 
-## Auto-issues
+## [auto-issues](https://github.yandex-team.ru/twilight/auto-issues)
+{:.shout}
 
-UPSERT интерфейс для стартрека
-
+## КОНЕЦ
 
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
