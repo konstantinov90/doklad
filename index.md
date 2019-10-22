@@ -76,12 +76,12 @@ style: |
 1. PROFIT
 
 ## таймлайн
-{:.images}
+{:.fullscreen}
 
 ![](images/Frame 1.png)
 
 ## таймлайн
-{:.images}
+{:.fullscreen}
 
 ![](images/Frame 2.png) 
 
