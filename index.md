@@ -3,12 +3,11 @@
 layout: yandex2
 
 style: |
-    /* собственные стили можно писать здесь!!
+    /* собственные стили можно писать здесь!!*/
     .red-alert {
         background: red;
         border-radius: 3px;
     }
-    */
 
 
 ---
