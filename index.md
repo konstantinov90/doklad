@@ -250,7 +250,10 @@ Diff git'а показывает, что поменялось
 {:.shout}
 
 ## tanker-sync?
-{:.shout}
+
+- push
+- pull
+- merge
 
 ## КОНЕЦ
 
