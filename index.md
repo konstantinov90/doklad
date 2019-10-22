@@ -97,15 +97,15 @@ style: |
 
 ![](images/Frame 2 many arrows.png)
 
-## таймлайн
-{:.images}
-
-![](images/Frame 3.png)
-
 ## к чему это приводит
 {:.fullscreen}
 
 ![](images/failed translation.png)
+
+## таймлайн
+{:.images}
+
+![](images/Frame 3.png)
 
 ## Проблема
 
