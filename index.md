@@ -140,7 +140,7 @@ Diff git'а показывает, что поменялось
 {:.fullscreen}
 ![](images/tanker api.png)
 
-## εὕρηκα
+## εὕρηκα!
 {:.blockquote}
 
 ### Архимед
