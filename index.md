@@ -249,6 +249,9 @@ Diff git'а показывает, что поменялось
 ## [auto-issues](https://github.yandex-team.ru/twilight/auto-issues)
 {:.shout}
 
+## tanker-sync?
+{:.shout}
+
 ## КОНЕЦ
 
 ## Длинная цитата переносится на несколько строк
