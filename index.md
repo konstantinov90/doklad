@@ -115,7 +115,7 @@ style: |
 
 ## таймлайн
 
-{:.images}
+{:.fullscreen}
 
 ![](images/Frame 4.png)
 
@@ -151,7 +151,7 @@ Diff git'а показывает, что поменялось
 - отдавать фразы в работу переводчикам до коммита в транк
 
 ## Таймлайн
-{:.images}
+{:.fullscreen}
 
 ![](images/Frame 5.png) 
 
