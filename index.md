@@ -294,9 +294,9 @@ Diff git'а показывает, что поменялось
     </div>
     <div class="image-right column-right">
         <ol>
-            <li>push</li>
-            <li>pull</li>
-            <li>merge</li>
+            <li>find tanker branch</li>
+            <li>master -> branch</li>
+            <li>download phrases</li>
         </ol>
     </div>
 </div>
@@ -312,9 +312,11 @@ Diff git'а показывает, что поменялось
     </div>
     <div class="image-right column-right">
         <ol>
-            <li>push</li>
-            <li>pull</li>
-            <li>merge</li>
+            <li>find tanker branch</li>
+            <li>master -> branch</li>
+            <li>branch -> master</li>
+            <li>find startrek issue</li>
+            <li>mark issue as committed</li>
         </ol>
     </div>
 </div>
