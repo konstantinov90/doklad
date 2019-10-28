@@ -279,6 +279,42 @@ Diff git'а показывает, что поменялось
     </div>
 </div>
 
+## tanker-sync?
+<div>
+    <div class="image-left column-left">
+        <ul>
+            <li>push</li>
+            <li><b>pull</b></li>
+            <li>merge</li>
+        </ul>
+    </div>
+    <div class="image-right column-right">
+        <ol>
+            <li>push</li>
+            <li>pull</li>
+            <li>merge</li>
+        </ol>
+    </div>
+</div>
+
+## tanker-sync?
+<div>
+    <div class="image-left column-left">
+        <ul>
+            <li>push</li>
+            <li>pull</li>
+            <li><b>merge</b></li>
+        </ul>
+    </div>
+    <div class="image-right column-right">
+        <ol>
+            <li>push</li>
+            <li>pull</li>
+            <li>merge</li>
+        </ol>
+    </div>
+</div>
+
 ## КОНЕЦ
 
 ## Длинная цитата переносится на несколько строк
