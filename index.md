@@ -273,9 +273,12 @@ Diff git'а показывает, что поменялось
     </div>
     <div class="image-right column-right">
         <ol>
-            <li>push</li>
-            <li>pull</li>
-            <li>merge</li>
+            <li>find tanker branch</li>
+            <li>master -> branch</li>
+            <li>upload phrases</li>
+            <li>diff master..branch</li>
+            <li>find or create startrek issue</li>
+            <li>update issue</li>
         </ol>
     </div>
 </div>
