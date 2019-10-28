@@ -12,12 +12,12 @@ style: |
     }
 
     .column-left {
-        margin-top: -30px;
+        margin-top: -30px !important;
     }
 
     .column-right {
-        display: inline-block;
-        position: absolute;
+        display: inline-block !important;
+        position: absolute !important;
     }
 
 ---
@@ -260,7 +260,6 @@ Diff git'а показывает, что поменялось
 - push
 - pull
 - merge
-
 
 ## tanker-sync?
 <div>
