@@ -257,13 +257,13 @@ Diff git'а показывает, что поменялось
 ## tanker-sync?
 
 <div >
-    <p class="image-left">
+    <div class="image-left">
     <ul>
 <li>push</li>
 <li>pull</li>
 <li>merge</li>
     </ul>
-</p>
+</div>
     <p class="image-right">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
 </div>
 
