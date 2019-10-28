@@ -270,7 +270,13 @@ Diff git'а показывает, что поменялось
             <li>merge</li>
         </ul>
     </div>
-    <p class="image-right column-right">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
+    <div class="image-right column-right">
+        <ol>
+            <li>push</li>
+            <li>pull</li>
+            <li>merge</li>
+        </ol>
+    </div>
 </div>
 
 ## КОНЕЦ
