@@ -258,9 +258,11 @@ Diff git'а показывает, что поменялось
 
 <div >
     <p class="image-left">
-- push
-- pull
-- merge
+    <ul>
+<li>push</li>
+<li>pull</li>
+<li>merge</li>
+    </ul>
 </p>
     <p class="image-right">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
 </div>
