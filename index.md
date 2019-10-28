@@ -18,6 +18,7 @@ style: |
     .column-right {
         display: inline-block !important;
         position: absolute !important;
+        margin: -30px 0 0 -150px !important;
     }
 
 ---
