@@ -265,7 +265,7 @@ Diff git'а показывает, что поменялось
 <div>
     <div class="image-left column-left">
         <ul>
-            <li>push</li>
+            <li><b>push</b></li>
             <li>pull</li>
             <li>merge</li>
         </ul>
