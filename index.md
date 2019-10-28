@@ -249,6 +249,12 @@ Diff git'а показывает, что поменялось
 {:.shout}
 
 ## tanker-sync?
+- push
+- pull
+- merge
+
+
+## tanker-sync?
 
 <div >
     <p class="image-left">
