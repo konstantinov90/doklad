@@ -249,6 +249,7 @@ Diff git'а показывает, что поменялось
 {:.shout}
 
 ## tanker-sync?
+{:.columns .two}
 
 - push
 - pull
