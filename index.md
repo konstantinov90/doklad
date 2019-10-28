@@ -11,6 +11,14 @@ style: |
         padding: 0 15px 5px;
     }
 
+    .column-left {
+        margin-top: -30px;
+    }
+
+    .column-right {
+        display: inline-block;
+        position: absolute;
+    }
 
 ---
 
@@ -255,16 +263,15 @@ Diff git'а показывает, что поменялось
 
 
 ## tanker-sync?
-
-<div >
-    <div class="image-left">
-    <ul>
-<li>push</li>
-<li>pull</li>
-<li>merge</li>
-    </ul>
-</div>
-    <p class="image-right">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
+<div>
+    <div class="image-left column-left">
+        <ul>
+            <li>push</li>
+            <li>pull</li>
+            <li>merge</li>
+        </ul>
+    </div>
+    <p class="image-right column-right">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
 </div>
 
 ## КОНЕЦ
