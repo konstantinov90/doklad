@@ -250,13 +250,13 @@ Diff git'а показывает, что поменялось
 
 ## tanker-sync?
 
-<div class="columns two">
-    <p>
+<div >
+    <p class="image-left">
 - push
 - pull
 - merge
 </p>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
+    <p class="image-right">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
 </div>
 
 ## КОНЕЦ
