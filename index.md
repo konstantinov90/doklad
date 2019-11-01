@@ -336,6 +336,8 @@ Diff git'а показывает, что поменялось
 ![](images/tickets-chart.png)
 
 ## Статистика 2
+{:.fullscreen}
+![](images/deadlines-chart.png)
 
 ## Что хочется улучшить
 
