@@ -123,10 +123,6 @@ style: |
 
 ![](images/Frame 4.png)
 
-## Git control
-
-Diff git'а показывает, что поменялось
-
 ## Github diff
 {:.fullscreen}
 ![](images/github-diff.png)
