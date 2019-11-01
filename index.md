@@ -332,6 +332,8 @@ Diff git'а показывает, что поменялось
 
 
 ## Статистика 1
+{:.fullscreen}
+![](images/tickets-chart.png)
 
 ## Статистика 2
 
