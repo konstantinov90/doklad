@@ -195,7 +195,7 @@ style: |
 1. API для работы с ветками танкера
 1. Автоматизировать тикеты в трекере
 
-## [tanker-kit](https://github.yandex-team.ru/lego/tanker-kit)
+## [tanker-kit](https://github.yandex-team.ru/search-interfaces/frontend/tree/master/packages/tanker-kit)
 {:.shout}
 
 ## [tanker-branch](https://github.yandex-team.ru/twilight/tanker-branch)
