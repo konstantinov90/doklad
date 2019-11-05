@@ -11,7 +11,7 @@ style: |
         padding: 0 15px 5px;
     }
     
-    .active .img-scroll { animation: 20s linear infinite alternate xxx; }
+    .active .img-scroll { animation: 60s linear infinite alternate xxx; }
     
     @keyframes xxx { 
       from { transform: translateY(0); } 
