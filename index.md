@@ -203,7 +203,24 @@ style: |
 
 ## tanker-branch
 {:.fullscreen}
-![](images/tanker-branch API.png)
+```bash
+Examples:
+
+- Создать ветку из ветки br2
+$ tanker-branch create br1 br2
+
+- Удалить ветку
+$ tanker-branch rm br1
+
+- Разница между ветками (изменения, которые нужно сделать в ветке br1, чтобы получить ветку br2)
+$ tanker-branch diff br1 br2
+
+- Слияние веток (b1 => b2)
+$ tanker-branch merge br1 br2
+
+- Слияние веток (b1 => b2) после решения конфликтов в resolve.json
+$ tanker-branch merge br1 br2 -r ./resolve.json
+```
 
 ## Si vis pacem, para bellum
 {:.blockquote}
@@ -316,7 +333,7 @@ style: |
     </div>
 </div>
 
-## Итог
+## Итоги
 {:.section}
 
 ## Что получилось
