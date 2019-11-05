@@ -166,6 +166,9 @@ style: |
 ## Автоматизируй это
 {:.section}
 
+## весна 2018 года
+{:.shout}
+
 ## Новый процесс
 
 1. Разработчик добавляет новые фразы в dev-ветке
@@ -263,7 +266,7 @@ $ tanker-branch merge master branch
         "hash": "ea08bc....7bc77d3"
     }
 }
-$ tanker-branch merge master branch > conflicts.json
+$ tanker-branch merge master branch -r ./conflicts.json
 ```
 
 ## व्यायाम भी शरीर के लिए उतना ही आवश्यक है जितना ही हवा, पानी और भोजन।
@@ -397,7 +400,7 @@ $ tanker-branch merge master branch -r conflicts.json
 - научиться считать статистику
 - больше общаться с переводчиками
 
-## Контакты 
+## Спасибо 
 {:.contacts}
 
 {% if site.author %}
