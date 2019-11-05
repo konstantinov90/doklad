@@ -400,7 +400,7 @@ $ tanker-branch merge master branch -r conflicts.json
 - научиться считать статистику
 - больше общаться с переводчиками
 
-## Спасибо 
+## Спасибо!
 {:.contacts}
 
 {% if site.author %}
