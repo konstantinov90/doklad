@@ -139,11 +139,11 @@ style: |
 ## εὕρηκα!
 {:.blockquote}
 
+### Архимед
+
 ## Tanker API
 {:.fullscreen}
 ![](images/tanker api.png)
-
-### Архимед
 
 ## Решение
 - выгружать все фразы в ветку в танкере
