@@ -148,7 +148,7 @@ style: |
 ## Решение
 - выгружать все фразы в ветку в танкере
 - получать список фраз как diff между веткой и мастером
-- отдавать фразы в работу переводчикам до коммита в транк
+- отдавать фразы в работу переводчикам до коммита в git
 
 ## Таймлайн
 {:.fullscreen}
@@ -224,6 +224,45 @@ $ tanker-branch merge br1 br2 -r ./resolve.json
 {:.blockquote}
 
 ### Гай Юлий Цезарь
+
+## Конфликты
+
+```bash
+$ tanker-branch merge master branch
+```
+
+## Конфликты
+
+```bash
+$ tanker-branch merge master branch
+{
+    "dna:declarations_filter/today-is/ru": {
+        "form": {
+            "a": "пЯтьница",
+            "b": "Кровавый четверг",
+            "resolved": null
+        },
+        "hash": "ea08bc....7bc77d3"
+    }
+}
+```
+
+## Конфликты
+
+```bash
+$ tanker-branch merge master branch
+{
+    "dna:declarations_filter/today-is/ru": {
+        "form": {
+            "a": "пЯтьница",
+            "b": "Кровавый четверг",
+            "resolved": null
+        },
+        "hash": "ea08bc....7bc77d3"
+    }
+}
+$ tanker-branch merge master branch > conflicts.json
+```
 
 ## Конфликты
 
