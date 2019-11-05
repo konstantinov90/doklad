@@ -10,6 +10,13 @@ style: |
         color: white;
         padding: 0 15px 5px;
     }
+    
+    .active .img-scroll { animation: 20s linear infinite alternate xxx; }
+    
+    @keyframes xxx { 
+      from { transform: translateY(0); } 
+      to { transform: translateY(calc(1080px - 100%)); }  
+    }
 
     .column-left {
         margin-top: -30px !important;
