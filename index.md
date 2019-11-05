@@ -204,8 +204,6 @@ style: |
 ## tanker-branch
 {:.fullscreen}
 ```bash
-Examples:
-
 - Создать ветку из ветки br2
 $ tanker-branch create br1 br2
 
