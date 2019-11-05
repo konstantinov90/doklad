@@ -264,21 +264,6 @@ $ tanker-branch merge master branch
 $ tanker-branch merge master branch > conflicts.json
 ```
 
-## Конфликты
-
-```js
-{
-    "dna:declarations_filter/today-is/ru": {
-        "form": {
-            "a": "пЯтьница",
-            "b": "Кровавый четверг",
-            "resolved": null
-        },
-        "hash": "ea08bc....7bc77d3"
-    }
-}
-```
-
 ## व्यायाम भी शरीर के लिए उतना ही आवश्यक है जितना ही हवा, पानी और भोजन।
 {:.blockquote}
 
@@ -302,6 +287,21 @@ $ tanker-branch merge master branch > conflicts.json
 ## tanker-gandhi
 {:.fullscreen}
 ![](images/gandhi-4.png)
+
+## Конфликты
+
+```bash
+$ tanker-branch merge master branch > conflicts.json
+$ tanker-ghandi ./conflicts.json
+```
+
+## Конфликты
+
+```bash
+$ tanker-branch merge master branch > conflicts.json
+$ tanker-ghandi ./conflicts.json
+$ tanker-branch merge master branch -r conflicts.json
+```
 
 ## [auto-issues](https://github.yandex-team.ru/twilight/auto-issues)
 {:.shout}
