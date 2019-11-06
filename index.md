@@ -199,10 +199,6 @@ style: |
 ## [tanker-kit](https://github.yandex-team.ru/search-interfaces/frontend/tree/master/packages/tanker-kit)
 {:.shout}
 
-## tanker-kit-pr
-{:.fullscreen}
-![](images/tanker-kit-pr.png){:.img-scroll}
-
 ## [tanker-branch](https://github.yandex-team.ru/twilight/tanker-branch)
 {:.shout}
 
