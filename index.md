@@ -431,6 +431,7 @@ $ tanker-branch merge master branch -r conflicts.json
 -------
 
 <!-- left -->
+- [konstantinov90.github.io/doklad/](https://konstantinov90.github.io/doklad/)
 - {:.mail}aleks-konst@yandex-team.ru
 
 <!-- right -->
